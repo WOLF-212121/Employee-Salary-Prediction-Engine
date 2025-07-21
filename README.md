@@ -1,5 +1,5 @@
 # Employee-Salary-Prediction-Engine
 
-![SALARY PREDICTION](IMAGES/Salarypredictionimage.png, width="600")
+![SALARY PREDICTION](IMAGES/Salarypredictionimage.png)
 
 
