@@ -83,4 +83,4 @@ Selected real-life salary impact features:
 
 ## 📸 Sample Project Image
 
-![SALARY PREDICTION ENGINE]()
+![SALARY PREDICTION ENGINE](IMAGES/SALARYPREDICTIONENGINE.png)
